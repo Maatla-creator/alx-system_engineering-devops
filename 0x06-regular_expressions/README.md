@@ -58,3 +58,33 @@ Requirement:
 
 The regular expression must be only matching: capital letters.
 
+This exercise was prepared for you by Guillaume Plessis, VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project on Twitter.
+
+
+File: 100-textme.rb:
+
+For this task, you’ll be taking over Guillaume’s responsibilities: one afternoon, a TextMe VoIP Engineer comes to you and explains she wants to run some statistics on the TextMe app text messages transactions.
+
+Requirements:
+
+Your script should output: [SENDER],[RECEIVER],[FLAGS],
+The sender phone number or name (including country code if present),
+The receiver phone number or name (including country code if present),
+The flags that were used.
+
+
+References:
+
+https://alx-intranet.hbtn.io/concepts/29,
+
+https://www.slideshare.net/neha_jain/introducing-regular-expressions,
+
+https://www.slideshare.net/neha_jain/advanced-regular-expressions-80296518,
+
+https://rubular.com/,
+
+https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/,
+
+https://regexone.com/
+
+
